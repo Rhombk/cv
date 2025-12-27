@@ -78,7 +78,7 @@
   date: datetime(
     year: 2025,
     month: 12,
-    day: 16,
+    day: 1,
   ),
 )
 
@@ -87,54 +87,55 @@
 
 #connections(
   [#connection-with-icon("location-dot")[Rio de Janeiro, RJ]],
-  [#link("mailto:caiosousasantos.cs@gmail.com", icon: false, if-underline: false, if-color: false)[#connection-with-icon("envelope")[caiosousasantos.cs\@gmail.com]]],
-  [#link("https://rendercv.com/", icon: false, if-underline: false, if-color: false)[#connection-with-icon("link")[rendercv.com]]],
-  [#link("https://linkedin.com/in/caio-santos-85647914", icon: false, if-underline: false, if-color: false)[#connection-with-icon("linkedin")[caio-santos-85647914]]],
+  [#link("mailto:caio.santos.jobs@gmail.com", icon: false, if-underline: false, if-color: false)[#connection-with-icon("envelope")[caio.santos.jobs\@gmail.com]]],
   [#link("https://github.com/Rhombk", icon: false, if-underline: false, if-color: false)[#connection-with-icon("github")[Rhombk]]],
+  [#link("https://linkedin.com/in/caiosousasantos", icon: false, if-underline: false, if-color: false)[#connection-with-icon("linkedin")[caiosousasantos]]],
 )
 
 
-== Experience
+== Experiência
 
 #regular-entry(
   [
-    #strong[Co-Founder & CTO], Nexus AI -- San Francisco, CA
+    #strong[Software Engineer], Transfero Group -- Rio de Janeiro, RJ
     
   ],
   [
-    June 2023 – present
+    Apr 2022 – Oct 2023
     
   ],
   main-column-second-row: [
-    - Built foundation model infrastructure serving 2M+ monthly API requests with 99.97\% uptime
+    #summary[Responsável pelo desenvolvimento do #strong[front-end] de produtos mobile e web para B2C, ferramentas internas e B2B em diferentes tech stacks.]
     
-    - Raised \$18M Series A led by Sequoia Capital, with participation from a16z and Founders Fund
+    - Desenvolveu #strong[front-ends] de apps mobile em #strong[React Native] e Flutter.
     
-    - Scaled engineering team from 3 to 28 across ML research, platform, and applied AI divisions
+    - Desenvolveu #strong[front-ends] web em #strong[React.Js] e #strong[Next.Js].
     
-    - Developed proprietary inference optimization reducing latency by 73\% compared to baseline
+    - Desenvolveu e deu manunteção a #strong[pipelines] de build e distribuição de código para multiplas plataformas.
+    
+    - Responsável pela manutenção de bases de código #strong[front-end] em #strong[Vue] e #strong[Angular].
     
   ],
 )
 
 #regular-entry(
   [
-    #strong[Research Intern], NVIDIA Research -- Santa Clara, CA
+    #strong[Estágio], Observatório Nacional do Rio -- Rio de Janeiro, RJ
     
   ],
   [
-    May 2022 – Aug 2022
+    Sept 2019 – Oct 2020
     
   ],
   main-column-second-row: [
-    - Designed sparse attention mechanism reducing transformer memory footprint by 4.2x
+    #summary[Responsável pelo desenvolvimento de projetos em realidade virtual e realidade aumentada voltados para educação e divulgação científica.]
     
-    - Co-authored paper accepted at NeurIPS 2022 (spotlight presentation, top 5\% of submissions)
+    - Co-autorou um projeto de Realidade Aumentada cujo intuito foi a divulgação científica em diferentes estados em feiras de ciência pelo Brasil.
     
   ],
 )
 
-== Projects
+== Projetos
 
 #regular-entry(
   [
@@ -142,75 +143,55 @@
     
   ],
   [
-    Jan 2023 – present
+    Dec 2025 – present
     
   ],
   main-column-second-row: [
-    #summary[Open-source library for high-performance LLM inference kernels]
-    
-    - Achieved 2.8x speedup over baseline attention implementations on A100 GPUs
-    
-    - Adopted by 3 major AI labs, 8,500+ GitHub stars, 200+ contributors
+    #summary[um ollama wrapper open-source focado em rapidamente servir informações úteis a usuários #strong[Linux] sobre o atual sistema operacional utilizado e sistemas #strong[Linux] de forma geral. Tudo localmente, sem a necessidade de uma conexão com a internet para começar uma busca.]
     
   ],
 )
 
 #regular-entry(
   [
-    #strong[#link("https://github.com/Rhombk/Ziggurat")[Ziggurat]]
+    #strong[#link("https://github.com/Rhombk/Ziggurat.git")[Ziggurat]]
     
   ],
   [
-    Jan 2021
+    Dec 2025 – present
     
   ],
   main-column-second-row: [
-    #summary[Automated neural network pruning toolkit with differentiable masks]
-    
-    - Reduced model size by 90\% with less than 1\% accuracy degradation on ImageNet
-    
-    - Featured in PyTorch ecosystem tools, 4,200+ GitHub stars
+    #summary[Minha própria distribuição #strong[Arch Linux], pré-configurada e pronta para uso \"out of the box\" para desenvolvimento de software]
     
   ],
 )
 
 == Skills
 
-#strong[Languages:] Python, C++, CUDA, Rust,
+#strong[Languages:] C, C++, Rust, Zig, #strong[Javascript], #strong[Typescript], #strong[Python], #strong[C\#], #strong[Yaml], Toml
 
-#strong[Infrastructure:] Kubernetes, Ray, distributed training, AWS, GCP
+#strong[Infrastrutura:] Docker, Kubernetes, Azure, Google Cloud Provider
+
+#strong[Frameworks Front-end:] #strong[React.Js], #strong[React Native], #strong[Next.Js], #strong[Vue], #strong[Angular], Tailwind CSS
+
+#strong[Frameworks back-end:] #strong[.NET Framework], ASP.NET
+
+#strong[Bancos de Dados:] #strong[SQL]
 
 #strong[Linguas Estrangeiras:] Inglês fluente.
 
-== Any Section Title
-
-You can use any section title you want.
-
-You can choose any entry type for the section: `TextEntry`, `ExperienceEntry`, `EducationEntry`, `PublicationEntry`, `BulletEntry`, `NumberedEntry`, or `ReversedNumberedEntry`.
-
-Markdown syntax is supported everywhere.
-
-The `design` field in YAML gives you control over almost any aspect of your CV design.
-
-See the #link("https://docs.rendercv.com")[documentation] for more details.
-
-== Education
+== Educação
 
 #education-entry(
   [
-    #strong[Princeton University], PhD in Computer Science -- Princeton, NJ
+    #strong[Centro Universitário Unicarioca], Tecnólogo in Análise e Desenvolvimento de Sistemas -- Rio de Janeiro, RJ
     
   ],
   [
-    Sept 2018 – May 2023
+    Jan 2018 – June 2022
     
   ],
   main-column-second-row: [
-    - Thesis: Efficient Neural Architecture Search for Resource-Constrained Deployment
-    
-    - Advisor: Prof. Sanjeev Arora
-    
-    - NSF Graduate Research Fellowship, Siebel Scholar (Class of 2022)
-    
   ],
 )
