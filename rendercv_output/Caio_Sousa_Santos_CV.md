@@ -10,15 +10,15 @@
 
 ## **Software Engineer**, Transfero Group -- Rio de Janeiro, RJ
 
-Apr 2022 – Oct 2023
+Abr 2022 – Out 2023
 
-#summary[Responsável pelo desenvolvimento do #strong[**front-end**] de produtos mobile e web para B2C, ferramentas internas e B2B em diferentes tech stacks.]
+#summary[Responsável pelo desenvolvimento do #strong[**front-end**] de produtos #strong[**mobile**] e #strong[**web**] para B2C, ferramentas internas e B2B em diferentes tech stacks.]
 
-- Desenvolveu #strong[**front-ends**] de apps mobile em #strong[**React Native**] e Flutter.
+- Desenvolveu #strong[**front-ends**] de apps #strong[**mobile**] em #strong[**React Native**] e Flutter.
 
-- Desenvolveu #strong[**front-ends**] web em #strong[**React.Js**] e #strong[**Next.Js**].
+- Desenvolveu #strong[**front-ends**] #strong[**web**] em #strong[**React.Js**] e #strong[**Next.Js**].
 
-- Desenvolveu e deu manunteção a #strong[**pipelines**] de build e distribuição de código para multiplas plataformas.
+- Desenvolveu e deu manunteção a #strong[**Azure pipelines**] de build e distribuição de código para multiplas plataformas.
 
 - Responsável pela manutenção de bases de código #strong[**front-end**] em #strong[**Vue**] e #strong[**Angular**].
 
@@ -26,7 +26,7 @@ Apr 2022 – Oct 2023
 
 ## **Estágio**, Observatório Nacional do Rio -- Rio de Janeiro, RJ
 
-Sept 2019 – Oct 2020
+Set 2019 – Out 2020
 
 #summary[Responsável pelo desenvolvimento de projetos em realidade virtual e realidade aumentada voltados para educação e divulgação científica.]
 
@@ -38,17 +38,9 @@ Sept 2019 – Oct 2020
 
 ## **#link("https://github.com/Rhombk/penguin.git")[Penguin]**
 
-Dec 2025 – present
+Dez 2025 – presente
 
-#summary[um ollama wrapper open-source focado em rapidamente servir informações úteis a usuários #strong[**Linux**] sobre o atual sistema operacional utilizado e sistemas #strong[**Linux**] de forma geral. Tudo localmente, sem a necessidade de uma conexão com a internet para começar uma busca.]
-
-
-
-## **#link("https://github.com/Rhombk/Ziggurat.git")[Ziggurat]**
-
-Dec 2025 – present
-
-#summary[Minha própria distribuição #strong[**Arch Linux**], pré-configurada e pronta para uso \"out of the box\" para desenvolvimento de software]
+#summary[Um ollama wrapper focado em rapidamente servir informações úteis a usuários #strong[**Linux**] sobre o atual sistema operacional utilizado e sistemas #strong[**Linux**] de forma geral. Tudo localmente, sem a necessidade de uma conexão com a internet para começar uma busca.]
 
 
 
@@ -56,11 +48,11 @@ Dec 2025 – present
 
 - Languages: C, C++, Rust, Zig, #strong[**Javascript**], #strong[**Typescript**], #strong[**Python**], #strong[C\#], #strong[**Yaml**], Toml
 
-- Infrastrutura: Docker, Kubernetes, Azure, Google Cloud Provider
+- Infrastrutura: Docker, Azure, Google Cloud Provider
 
 - Frameworks Front-end: #strong[**React.Js**], #strong[**React Native**], #strong[**Next.Js**], #strong[**Vue**], #strong[**Angular**], Tailwind CSS
 
-- Frameworks back-end: #strong[**.NET Framework**], ASP.NET
+- Frameworks back-end: #strong[**.NET Framework**]
 
 - Bancos de Dados: #strong[**SQL**]
 
@@ -68,6 +60,6 @@ Dec 2025 – present
 
 # Educação
 
-## **Centro Universitário Unicarioca**, Tecnólogo in Análise e Desenvolvimento de Sistemas -- Rio de Janeiro, RJJan 2018 – June 2022
+## **Centro Universitário Unicarioca - Unidade Rio Comprido**, Tecnólogo in Análise e Desenvolvimento de Sistemas -- Rio de Janeiro, RJJan 2018 – Jun 2022
 
 

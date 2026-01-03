@@ -5,8 +5,8 @@
 #show: rendercv.with(
   name: "Caio Sousa Santos",
   footer: context { [#emph[Caio Sousa Santos -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Last updated in Dec 2025] ],
-  locale-catalog-language: "en",
+  top-note: [ #emph[Última atualização Dez 2025] ],
+  locale-catalog-language: "pt",
   page-size: "us-letter",
   page-top-margin: 0.7in,
   page-bottom-margin: 0.7in,
@@ -101,17 +101,17 @@
     
   ],
   [
-    Apr 2022 – Oct 2023
+    Abr 2022 – Out 2023
     
   ],
   main-column-second-row: [
-    #summary[Responsável pelo desenvolvimento do #strong[front-end] de produtos mobile e web para B2C, ferramentas internas e B2B em diferentes tech stacks.]
+    #summary[Responsável pelo desenvolvimento do #strong[front-end] de produtos #strong[mobile] e #strong[web] para B2C, ferramentas internas e B2B em diferentes tech stacks.]
     
-    - Desenvolveu #strong[front-ends] de apps mobile em #strong[React Native] e Flutter.
+    - Desenvolveu #strong[front-ends] de apps #strong[mobile] em #strong[React Native] e Flutter.
     
-    - Desenvolveu #strong[front-ends] web em #strong[React.Js] e #strong[Next.Js].
+    - Desenvolveu #strong[front-ends] #strong[web] em #strong[React.Js] e #strong[Next.Js].
     
-    - Desenvolveu e deu manunteção a #strong[pipelines] de build e distribuição de código para multiplas plataformas.
+    - Desenvolveu e deu manunteção a #strong[Azure pipelines] de build e distribuição de código para multiplas plataformas.
     
     - Responsável pela manutenção de bases de código #strong[front-end] em #strong[Vue] e #strong[Angular].
     
@@ -124,7 +124,7 @@
     
   ],
   [
-    Sept 2019 – Oct 2020
+    Set 2019 – Out 2020
     
   ],
   main-column-second-row: [
@@ -143,26 +143,11 @@
     
   ],
   [
-    Dec 2025 – present
+    Dez 2025 – presente
     
   ],
   main-column-second-row: [
-    #summary[um ollama wrapper open-source focado em rapidamente servir informações úteis a usuários #strong[Linux] sobre o atual sistema operacional utilizado e sistemas #strong[Linux] de forma geral. Tudo localmente, sem a necessidade de uma conexão com a internet para começar uma busca.]
-    
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[#link("https://github.com/Rhombk/Ziggurat.git")[Ziggurat]]
-    
-  ],
-  [
-    Dec 2025 – present
-    
-  ],
-  main-column-second-row: [
-    #summary[Minha própria distribuição #strong[Arch Linux], pré-configurada e pronta para uso \"out of the box\" para desenvolvimento de software]
+    #summary[Um ollama wrapper focado em rapidamente servir informações úteis a usuários #strong[Linux] sobre o atual sistema operacional utilizado e sistemas #strong[Linux] de forma geral. Tudo localmente, sem a necessidade de uma conexão com a internet para começar uma busca.]
     
   ],
 )
@@ -171,11 +156,11 @@
 
 #strong[Languages:] C, C++, Rust, Zig, #strong[Javascript], #strong[Typescript], #strong[Python], #strong[C\#], #strong[Yaml], Toml
 
-#strong[Infrastrutura:] Docker, Kubernetes, Azure, Google Cloud Provider
+#strong[Infrastrutura:] Docker, Azure, Google Cloud Provider
 
 #strong[Frameworks Front-end:] #strong[React.Js], #strong[React Native], #strong[Next.Js], #strong[Vue], #strong[Angular], Tailwind CSS
 
-#strong[Frameworks back-end:] #strong[.NET Framework], ASP.NET
+#strong[Frameworks back-end:] #strong[.NET Framework]
 
 #strong[Bancos de Dados:] #strong[SQL]
 
@@ -185,11 +170,11 @@
 
 #education-entry(
   [
-    #strong[Centro Universitário Unicarioca], Tecnólogo in Análise e Desenvolvimento de Sistemas -- Rio de Janeiro, RJ
+    #strong[Centro Universitário Unicarioca - Unidade Rio Comprido], Tecnólogo in Análise e Desenvolvimento de Sistemas -- Rio de Janeiro, RJ
     
   ],
   [
-    Jan 2018 – June 2022
+    Jan 2018 – Jun 2022
     
   ],
   main-column-second-row: [

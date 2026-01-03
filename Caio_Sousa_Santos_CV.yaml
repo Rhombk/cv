@@ -17,7 +17,7 @@ cv:
     experiência:
       - company: Transfero Group
         position: Software Engineer
-        date: 
+        date:
         start_date: 2022-04
         end_date: 2023-10
         location: Rio de Janeiro, RJ
@@ -25,7 +25,7 @@ cv:
         highlights:
           - Desenvolveu front-ends de apps mobile em React Native e Flutter.
           - Desenvolveu front-ends web em React.Js e Next.Js.
-          - Desenvolveu e deu manunteção a pipelines de build e distribuição de código para multiplas plataformas.
+          - Desenvolveu e deu manunteção a Azure pipelines de build e distribuição de código para multiplas plataformas.
           - Responsável pela manutenção de bases de código front-end em Vue e Angular.
       - company: Observatório Nacional do Rio
         position: Estágio
@@ -33,7 +33,7 @@ cv:
         start_date: 2019-09
         end_date: 2020-10
         location: Rio de Janeiro, RJ
-        summary:  Responsável pelo desenvolvimento de projetos em realidade virtual e realidade aumentada voltados para educação e divulgação científica.
+        summary: Responsável pelo desenvolvimento de projetos em realidade virtual e realidade aumentada voltados para educação e divulgação científica.
         highlights:
           - Co-autorou um projeto de Realidade Aumentada cujo intuito foi a divulgação científica em diferentes estados em feiras de ciência pelo Brasil.
 
@@ -41,37 +41,35 @@ cv:
       - name: "[Penguin](https://github.com/Rhombk/penguin.git)"
         date:
         start_date: 2025-12
-        end_date: present 
-        location:
-        summary: um ollama wrapper open-source focado em rapidamente servir informações úteis a usuários Linux sobre o atual sistema operacional utilizado e sistemas Linux de forma geral. Tudo localmente, sem a necessidade de uma conexão com a internet para começar uma busca.
-        highlights:
-
-      - name: "[Ziggurat](https://github.com/Rhombk/Ziggurat.git)"
-        date: 
-        start_date: 2025-12 
         end_date: present
         location:
-        summary: Minha própria distribuição Arch Linux, pré-configurada e pronta para uso "out of the box" para desenvolvimento de software
+        summary: Um ollama wrapper focado em rapidamente servir informações úteis a usuários Linux sobre o atual sistema operacional utilizado e sistemas Linux de forma geral. Tudo localmente, sem a necessidade de uma conexão com a internet para começar uma busca.
         highlights:
 
+     # - name: "[Ziggurat](https://github.com/Rhombk/Ziggurat.git)"
+     #   date:
+     #   start_date: 2025-12
+     #   end_date: present
+     #   location:
+     #   summary: Minha própria distribuição Arch Linux, pré-configurada e pronta para uso "out of the box" para desenvolvimento de software.
+     #   highlights:
 
     skills:
       - label: Languages
         details: C, C++, Rust, Zig, Javascript, Typescript, Python, C#, Yaml, Toml
       - label: Infrastrutura
-        details: Docker, Kubernetes, Azure, Google Cloud Provider
+        details: Docker, Azure, Google Cloud Provider
       - label: Frameworks Front-end
         details: React.Js, React Native, Next.Js, Vue, Angular, Tailwind CSS
       - label: Frameworks back-end
-        details: .NET Framework, ASP.NET
+        details: .NET Framework
       - label: Bancos de Dados
         details: SQL
       - label: Linguas Estrangeiras
         details: Inglês fluente.
 
-
     educação:
-      - institution: Centro Universitário Unicarioca
+      - institution: Centro Universitário Unicarioca - Unidade Rio Comprido
         area: Análise e Desenvolvimento de Sistemas
         degree: Tecnólogo
         date:
@@ -80,7 +78,6 @@ cv:
         location: Rio de Janeiro, RJ
         summary:
         highlights:
-
 
 design:
   theme: engineeringclassic
@@ -222,7 +219,7 @@ design:
   #       URL (JOURNAL)
   #     date_and_location_column: DATE
 locale:
-  language: english
+  language: portuguese
   # last_updated: Last updated in
   # month: month
   # months: months
@@ -260,14 +257,36 @@ settings:
   render_command:
     design:
     locale:
-    typst_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.typ
     pdf_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.pdf
     markdown_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.md
+    typst_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.typ
     html_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.html
     png_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.png
-    dont_generate_markdown: false
-    dont_generate_html: false
-    dont_generate_typst: false
     dont_generate_pdf: false
-    dont_generate_png: false
-  bold_keywords: [front-end, front-ends, pipelines, Vue, Angular, Javascript, Typescript, React Native, React.Js, Next.Js, .NET Framework, Python, C#, Yaml, SQL, MongoDB, Arch Linux, Linux]
+    dont_generate_markdown: false
+    dont_generate_typst: false
+    dont_generate_html: true
+    dont_generate_png: true
+  bold_keywords:
+    [
+      front-end,
+      front-ends,
+      mobile,
+      web,
+      Azure pipelines,
+      Vue,
+      Angular,
+      Javascript,
+      Typescript,
+      React Native,
+      React.Js,
+      Next.Js,
+      .NET Framework,
+      Python,
+      C#,
+      Yaml,
+      SQL,
+      MongoDB,
+      Arch Linux,
+      Linux,
+    ]
