@@ -40,7 +40,7 @@ Set 2019 – Out 2020
 
 Dez 2025 – presente
 
-#summary[Um ollama wrapper focado em rapidamente servir informações úteis a usuários #strong[**Linux**] sobre o atual sistema operacional utilizado e sistemas #strong[**Linux**] de forma geral. Tudo localmente, sem a necessidade de uma conexão com a internet para começar uma busca.]
+#summary[(WIP) Um ollama wrapper focado em rapidamente, através do terminal, servir informações úteis a usuários #strong[**Linux**] sobre o atual sistema operacional utilizado e sistemas #strong[**Linux**] de forma geral. Tudo localmente, sem a necessidade de uma conexão com a internet para começar uma busca.]
 
 
 
@@ -48,7 +48,7 @@ Dez 2025 – presente
 
 - Languages: #strong[C\#], #strong[**Javascript**], #strong[**Typescript**], #strong[**Python**], C, C++, Golang, Rust, Zig, #strong[**Yaml**]
 
-- Infrastrutura: Docker, Azure, Google Cloud Provider
+- Infrastrutura: Docker, Azure, Google Cloud Provider, Github Actions
 
 - Frameworks Front-end: #strong[**React.Js**], #strong[**React Native**], #strong[**Next.Js**], #strong[**Vue**], #strong[**Angular**]
 

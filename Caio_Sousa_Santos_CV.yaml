@@ -44,7 +44,7 @@ cv:
         start_date: 2025-12
         end_date: present
         location:
-        summary: Um ollama wrapper focado em rapidamente servir informações úteis a usuários Linux sobre o atual sistema operacional utilizado e sistemas Linux de forma geral. Tudo localmente, sem a necessidade de uma conexão com a internet para começar uma busca.
+        summary: (WIP) Um ollama wrapper focado em rapidamente, através do terminal, servir informações úteis a usuários Linux sobre o atual sistema operacional utilizado e sistemas Linux de forma geral. Tudo localmente, sem a necessidade de uma conexão com a internet para começar uma busca.
         highlights:
 
      # - name: "[Ziggurat](https://github.com/Rhombk/Ziggurat.git)"
@@ -59,7 +59,7 @@ cv:
       - label: Languages
         details: C#, Javascript, Typescript, Python, C, C++, Golang, Rust, Zig, Yaml
       - label: Infrastrutura
-        details: Docker, Azure, Google Cloud Provider
+        details: Docker, Azure, Google Cloud Provider, Github Actions
       - label: Frameworks Front-end
         details: React.Js, React Native, Next.Js, Vue, Angular
       - label: Frameworks back-end
