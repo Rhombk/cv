@@ -21,11 +21,12 @@ cv:
         start_date: 2022-04
         end_date: 2023-10
         location: Rio de Janeiro, RJ
-        summary: Responsável pelo desenvolvimento do front-end de produtos mobile e web para B2C, ferramentas internas e B2B em diferentes tech stacks.
+        summary:
         highlights:
-          - Desenvolveu front-ends de apps mobile em React Native e Flutter.
-          - Desenvolveu front-ends web em React.Js e Next.Js.
-          - Desenvolveu e deu manunteção a Azure pipelines de build e distribuição de código para multiplas plataformas.
+          - Desenvolveu e deu manunteção a pipelines multiplataforma mobile para build e distribuição de código para Android, iOS e web.
+          - Desenvolveu front-ends de apps mobile em React Native e Flutter para Android e iOS.
+          - Desenvolveu front-end web em React.Js para uma plataforma interna B2B de backoffice.
+          - Desenvolveu front-end web Next.Js para uma plataforma B2C de investimentos financeiros em bitcoin.
           - Responsável pela manutenção de bases de código front-end em Vue e Angular.
       - company: Observatório Nacional do Rio
         position: Estágio
@@ -56,15 +57,15 @@ cv:
 
     skills:
       - label: Languages
-        details: C, C++, Rust, Zig, Javascript, Typescript, Python, C#, Yaml, Toml
+        details: C#, Javascript, Typescript, Python, C, C++, Golang, Rust, Zig, Yaml
       - label: Infrastrutura
         details: Docker, Azure, Google Cloud Provider
       - label: Frameworks Front-end
-        details: React.Js, React Native, Next.Js, Vue, Angular, Tailwind CSS
+        details: React.Js, React Native, Next.Js, Vue, Angular
       - label: Frameworks back-end
         details: .NET Framework
       - label: Bancos de Dados
-        details: SQL
+        details: Postgres, SQL Server
       - label: Linguas Estrangeiras
         details: Inglês fluente.
 

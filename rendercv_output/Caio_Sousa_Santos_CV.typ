@@ -105,13 +105,13 @@
     
   ],
   main-column-second-row: [
-    #summary[Responsável pelo desenvolvimento do #strong[front-end] de produtos #strong[mobile] e #strong[web] para B2C, ferramentas internas e B2B em diferentes tech stacks.]
+    - Desenvolveu e deu manunteção a pipelines multiplataforma #strong[mobile] para build e distribuição de código para Android, iOS e #strong[web].
     
-    - Desenvolveu #strong[front-ends] de apps #strong[mobile] em #strong[React Native] e Flutter.
+    - Desenvolveu #strong[front-ends] de apps #strong[mobile] em #strong[React Native] e Flutter para Android e iOS.
     
-    - Desenvolveu #strong[front-ends] #strong[web] em #strong[React.Js] e #strong[Next.Js].
+    - Desenvolveu #strong[front-end] #strong[web] em #strong[React.Js] para uma plataforma interna B2B de backoffice.
     
-    - Desenvolveu e deu manunteção a #strong[Azure pipelines] de build e distribuição de código para multiplas plataformas.
+    - Desenvolveu #strong[front-end] #strong[web] #strong[Next.Js] para uma plataforma B2C de investimentos financeiros em bitcoin.
     
     - Responsável pela manutenção de bases de código #strong[front-end] em #strong[Vue] e #strong[Angular].
     
@@ -154,15 +154,15 @@
 
 == Skills
 
-#strong[Languages:] C, C++, Rust, Zig, #strong[Javascript], #strong[Typescript], #strong[Python], #strong[C\#], #strong[Yaml], Toml
+#strong[Languages:] #strong[C\#], #strong[Javascript], #strong[Typescript], #strong[Python], C, C++, Golang, Rust, Zig, #strong[Yaml]
 
 #strong[Infrastrutura:] Docker, Azure, Google Cloud Provider
 
-#strong[Frameworks Front-end:] #strong[React.Js], #strong[React Native], #strong[Next.Js], #strong[Vue], #strong[Angular], Tailwind CSS
+#strong[Frameworks Front-end:] #strong[React.Js], #strong[React Native], #strong[Next.Js], #strong[Vue], #strong[Angular]
 
 #strong[Frameworks back-end:] #strong[.NET Framework]
 
-#strong[Bancos de Dados:] #strong[SQL]
+#strong[Bancos de Dados:] Postgres, #strong[SQL] Server
 
 #strong[Linguas Estrangeiras:] Inglês fluente.
 
