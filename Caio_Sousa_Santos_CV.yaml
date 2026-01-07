@@ -34,9 +34,9 @@ cv:
         start_date: 2019-09
         end_date: 2020-10
         location: Rio de Janeiro, RJ
-        summary: Responsável pelo desenvolvimento de projetos em realidade virtual e realidade aumentada voltados para educação e divulgação científica.
+        summary: Responsável pelo desenvolvimento de projetos em realidade virtual e realidade aumentada com Unity Engine voltados para educação e divulgação científica.
         highlights:
-          - Co-autorou um projeto de Realidade Aumentada cujo intuito foi a divulgação científica em diferentes estados em feiras de ciência pelo Brasil.
+          - Coautor em um projeto de Realidade Aumentada cujo intuito foi a divulgação científica em diferentes estados em feiras de ciência pelo Brasil.
 
     projetos:
       - name: "[Penguin](https://github.com/Rhombk/penguin.git)"
@@ -274,7 +274,6 @@ settings:
       front-ends,
       mobile,
       web,
-      Azure pipelines,
       Vue,
       Angular,
       Javascript,
@@ -285,9 +284,13 @@ settings:
       .NET Framework,
       Python,
       C#,
-      Yaml,
       SQL,
+      Postgres,
+      SQL Server,
       MongoDB,
       Arch Linux,
       Linux,
+      Docker,
+      Azure pipelines,
+      Azure
     ]

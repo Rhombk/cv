@@ -28,9 +28,9 @@ Abr 2022 – Out 2023
 
 Set 2019 – Out 2020
 
-#summary[Responsável pelo desenvolvimento de projetos em realidade virtual e realidade aumentada voltados para educação e divulgação científica.]
+#summary[Responsável pelo desenvolvimento de projetos em realidade virtual e realidade aumentada com Unity Engine voltados para educação e divulgação científica.]
 
-- Co-autorou um projeto de Realidade Aumentada cujo intuito foi a divulgação científica em diferentes estados em feiras de ciência pelo Brasil.
+- Coautor em um projeto de Realidade Aumentada cujo intuito foi a divulgação científica em diferentes estados em feiras de ciência pelo Brasil.
 
 
 
@@ -46,15 +46,15 @@ Dez 2025 – presente
 
 # Skills
 
-- Languages: #strong[C\#], #strong[**Javascript**], #strong[**Typescript**], #strong[**Python**], C, C++, Golang, Rust, Zig, #strong[**Yaml**]
+- Languages: #strong[C\#], #strong[**Javascript**], #strong[**Typescript**], #strong[**Python**], C, C++, Golang, Rust, Zig, Yaml
 
-- Infrastrutura: Docker, Azure, Google Cloud Provider, Github Actions
+- Infrastrutura: #strong[**Docker**], #strong[**Azure**], Google Cloud Provider, Github Actions
 
 - Frameworks Front-end: #strong[**React.Js**], #strong[**React Native**], #strong[**Next.Js**], #strong[**Vue**], #strong[**Angular**]
 
 - Frameworks back-end: #strong[**.NET Framework**]
 
-- Bancos de Dados: Postgres, #strong[**SQL**] Server
+- Bancos de Dados: #strong[**Postgres**], #strong[**SQL Server**]
 
 - Linguas Estrangeiras: Inglês fluente.
 
