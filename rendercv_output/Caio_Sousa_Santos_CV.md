@@ -7,20 +7,19 @@
 
 
 # Experiência
-
 ## **Software Engineer**, Transfero Group -- Rio de Janeiro, RJ
 
 Abr 2022 – Out 2023
 
-- Desenvolveu e deu manunteção a pipelines multiplataforma #strong[**mobile**] para build e distribuição de código para Android, iOS e #strong[**web**].
+- Desenvolveu e deu manunteção a pipelines multiplataforma **mobile** para build e distribuição de código para Android, iOS e **web**.
 
-- Desenvolveu #strong[**front-ends**] de apps #strong[**mobile**] em #strong[**React Native**] e Flutter para Android e iOS.
+- Desenvolveu **front-ends** de apps **mobile** em **React Native** e Flutter para Android e iOS.
 
-- Desenvolveu #strong[**front-end**] #strong[**web**] em #strong[**React.Js**] para uma plataforma interna B2B de backoffice.
+- Desenvolveu **front-end** **web** em **React.Js** para uma plataforma interna B2B de backoffice.
 
-- Desenvolveu #strong[**front-end**] #strong[**web**] #strong[**Next.Js**] para uma plataforma B2C de investimentos financeiros em bitcoin.
+- Desenvolveu **front-end** **web** **Next.Js** para uma plataforma B2C de investimentos financeiros em bitcoin.
 
-- Responsável pela manutenção de bases de código #strong[**front-end**] em #strong[**Vue**] e #strong[**Angular**].
+- Responsável pela manutenção de bases de código **front-end** em **Vue** e **Angular**.
 
 
 
@@ -28,38 +27,26 @@ Abr 2022 – Out 2023
 
 Set 2019 – Out 2020
 
-#summary[Responsável pelo desenvolvimento de projetos em realidade virtual e realidade aumentada com Unity Engine voltados para educação e divulgação científica.]
+Responsável pelo desenvolvimento de projetos em realidade virtual e realidade aumentada com Unity Engine voltados para educação e divulgação científica.
 
 - Coautor em um projeto de Realidade Aumentada cujo intuito foi a divulgação científica em diferentes estados em feiras de ciência pelo Brasil.
 
 
 
-# Projetos
-
-## **#link("https://github.com/Rhombk/penguin.git")[Penguin]**
-
-Dez 2025 – presente
-
-#summary[(WIP) Um ollama wrapper focado em rapidamente, através do terminal, servir informações úteis a usuários #strong[**Linux**] sobre o atual sistema operacional utilizado e sistemas #strong[**Linux**] de forma geral. Tudo localmente, sem a necessidade de uma conexão com a internet para começar uma busca.]
-
-
-
 # Skills
+**Languages:** **C#**, **Javascript**, **Typescript**, **Python**, C, C++, Golang, Rust, Zig, Yaml
 
-- Languages: #strong[C\#], #strong[**Javascript**], #strong[**Typescript**], #strong[**Python**], C, C++, Golang, Rust, Zig, Yaml
+**Infrastrutura:** **Docker**, **Azure**, Google Cloud Provider, Github Actions
 
-- Infrastrutura: #strong[**Docker**], #strong[**Azure**], Google Cloud Provider, Github Actions
+**Frameworks Front-end:** **React.Js**, **React Native**, **Next.Js**, **Vue**, **Angular**
 
-- Frameworks Front-end: #strong[**React.Js**], #strong[**React Native**], #strong[**Next.Js**], #strong[**Vue**], #strong[**Angular**]
+**Frameworks back-end:** **.NET Framework**
 
-- Frameworks back-end: #strong[**.NET Framework**]
+**Bancos de Dados:** **Postgres**, **SQL Server**
 
-- Bancos de Dados: #strong[**Postgres**], #strong[**SQL Server**]
-
-- Linguas Estrangeiras: Inglês fluente.
+**Linguas Estrangeiras:** Inglês fluente.
 
 # Educação
-
 ## **Centro Universitário Unicarioca - Unidade Rio Comprido**, Tecnólogo in Análise e Desenvolvimento de Sistemas -- Rio de Janeiro, RJJan 2018 – Jun 2022
 
 

@@ -38,15 +38,7 @@ cv:
         highlights:
           - Coautor em um projeto de Realidade Aumentada cujo intuito foi a divulgação científica em diferentes estados em feiras de ciência pelo Brasil.
 
-    projetos:
-      - name: "[Penguin](https://github.com/Rhombk/penguin.git)"
-        date:
-        start_date: 2025-12
-        end_date: present
-        location:
-        summary: (WIP) Um ollama wrapper focado em rapidamente, através do terminal, servir informações úteis a usuários Linux sobre o atual sistema operacional utilizado e sistemas Linux de forma geral. Tudo localmente, sem a necessidade de uma conexão com a internet para começar uma busca.
-        highlights:
-
+    #projetos:
      # - name: "[Ziggurat](https://github.com/Rhombk/Ziggurat.git)"
      #   date:
      #   start_date: 2025-12
