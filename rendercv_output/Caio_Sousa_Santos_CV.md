@@ -7,7 +7,7 @@
 
 
 # Experiência
-## **Software Engineer**, Transfero Group -- Rio de Janeiro, RJ
+## **Software Engineer - Full-Stack Developer**, Transfero Group -- Rio de Janeiro, RJ
 
 Abr 2022 – Out 2023
 
@@ -21,7 +21,9 @@ Abr 2022 – Out 2023
 
 - Responsável pela manutenção de bases de código frontend em **Vue** e **Angular**.
 
-- Responsável pela manutenção de bases de código backend em .NET MVC.
+- Responsável pela manutenção e desenvolvimento de bases de código backend em .NET.
+
+- Experiência em metodologias ágeis (Agile).
 
 
 
@@ -31,16 +33,16 @@ Set 2019 – Out 2020
 
 Responsável pelo desenvolvimento de projetos em realidade virtual e realidade aumentada com Unity Engine voltados para educação e divulgação científica.
 
-- Coautor em um projeto de Realidade Aumentada cujo intuito foi a divulgação científica em diferentes estados em feiras de ciência pelo Brasil.
+- Coautor em um projeto de Realidade Aumentada voltado para divulgação científica em diferentes estados em feiras de ciência pelo Brasil.
 
 
 
 # Skills
 **Linguagens de Programação:** **C#**, **Javascript**, **Typescript**, **Python**, C, C++, Golang, Rust, Zig, Yaml
 
-**Infrastrutura:** **Docker**, **Azure** DevOps, Github Actions
+**Infrastrutura:** CI/CD, **Docker**, **Azure** DevOps, Github Actions
 
-**Frameworks Front-end:** **React.Js**, **React Native**, **Next.Js**, **Vue**, **Angular**
+**Frameworks **front-end**:** **React.Js**, **React Native**, **Next.Js**, **Vue**, **Angular**
 
 **Frameworks back-end:** **.NET Framework**
 

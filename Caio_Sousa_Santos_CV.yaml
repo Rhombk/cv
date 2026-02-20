@@ -16,7 +16,7 @@ cv:
   sections:
     experiência:
       - company: Transfero Group
-        position: Software Engineer
+        position: Software Engineer - Full-Stack Developer
         date:
         start_date: 2022-04
         end_date: 2023-10
@@ -28,7 +28,7 @@ cv:
           - Desenvolveu frontend web em React.Js para uma plataforma interna B2B de backoffice.
           - Desenvolveu frontend web Next.Js para uma plataforma B2C de investimentos financeiros em bitcoin.
           - Responsável pela manutenção de bases de código frontend em Vue e Angular.
-          - Responsável pela manutenção de bases de código backend em .NET MVC.
+          - Responsável pela manutenção e desenvolvimento de bases de código backend em .NET.
           - Experiência em metodologias ágeis (Agile).
       - company: Observatório Nacional do Rio
         position: Estágio
@@ -53,8 +53,8 @@ cv:
       - label: Linguagens de Programação
         details: C#, Javascript, Typescript, Python, C, C++, Golang, Rust, Zig, Yaml
       - label: Infrastrutura
-        details: Docker, Azure DevOps, Github Actions
-      - label: Frameworks Front-end
+        details: CI/CD, Docker, Azure DevOps, Github Actions
+      - label: Frameworks front-end
         details: React.Js, React Native, Next.Js, Vue, Angular
       - label: Frameworks back-end
         details: .NET Framework
