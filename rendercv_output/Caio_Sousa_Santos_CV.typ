@@ -115,7 +115,9 @@
 
     - Responsável pela manutenção de bases de código frontend em #strong[Vue] e #strong[Angular].
 
-    - Responsável pela manutenção de bases de código backend em .NET MVC.
+    - Responsável pela manutenção de bases de código backend em .NET.
+
+    - Experiência em metodologias ágeis (Agile).
 
   ],
 )
@@ -132,7 +134,7 @@
   main-column-second-row: [
     #summary[Responsável pelo desenvolvimento de projetos em realidade virtual e realidade aumentada com Unity Engine voltados para educação e divulgação científica.]
 
-    - Coautor em um projeto de Realidade Aumentada cujo intuito foi a divulgação científica em diferentes estados em feiras de ciência pelo Brasil.
+    - Coautor em um projeto de Realidade Aumentada voltado para divulgação científica em diferentes estados em feiras de ciência pelo Brasil.
 
   ],
 )
