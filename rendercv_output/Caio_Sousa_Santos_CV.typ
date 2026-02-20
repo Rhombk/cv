@@ -105,15 +105,17 @@
 
   ],
   main-column-second-row: [
-    - Desenvolveu e deu manunteção a pipelines multiplataforma #strong[mobile] para build e distribuição de código para Android, iOS e #strong[web].
+    - Desenvolveu e deu manunteção a pipelines multiplataforma #strong[mobile] para build e distribuição de código para Android, iOS e #strong[web] com #strong[Azure] DevOps.
 
-    - Desenvolveu #strong[front-ends] de apps #strong[mobile] em #strong[React Native] e Flutter para Android e iOS.
+    - Desenvolveu frontend de apps #strong[mobile] em #strong[React Native] e Flutter para Android e iOS.
 
-    - Desenvolveu #strong[front-end] #strong[web] em #strong[React.Js] para uma plataforma interna B2B de backoffice.
+    - Desenvolveu frontend #strong[web] em #strong[React.Js] para uma plataforma interna B2B de backoffice.
 
-    - Desenvolveu #strong[front-end] #strong[web] #strong[Next.Js] para uma plataforma B2C de investimentos financeiros em bitcoin.
+    - Desenvolveu frontend #strong[web] #strong[Next.Js] para uma plataforma B2C de investimentos financeiros em bitcoin.
 
-    - Responsável pela manutenção de bases de código #strong[front-end] em #strong[Vue] e #strong[Angular].
+    - Responsável pela manutenção de bases de código frontend em #strong[Vue] e #strong[Angular].
+
+    - Responsável pela manutenção de bases de código backend em .NET MVC.
 
   ],
 )
@@ -137,9 +139,9 @@
 
 == Skills
 
-#strong[Languages:] #strong[C\#], #strong[Javascript], #strong[Typescript], #strong[Python], C, C++, Golang, Rust, Zig, Yaml
+#strong[Linguagens de Programação:] #strong[C\#], #strong[Javascript], #strong[Typescript], #strong[Python], C, C++, Golang, Rust, Zig, Yaml
 
-#strong[Infrastrutura:] #strong[Docker], #strong[Azure], Google Cloud Provider, Github Actions
+#strong[Infrastrutura:] #strong[Docker], #strong[Azure] DevOps, Github Actions
 
 #strong[Frameworks Front-end:] #strong[React.Js], #strong[React Native], #strong[Next.Js], #strong[Vue], #strong[Angular]
 

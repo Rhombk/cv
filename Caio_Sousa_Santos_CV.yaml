@@ -23,11 +23,13 @@ cv:
         location: Rio de Janeiro, RJ
         summary:
         highlights:
-          - Desenvolveu e deu manunteção a pipelines multiplataforma mobile para build e distribuição de código para Android, iOS e web.
-          - Desenvolveu front-ends de apps mobile em React Native e Flutter para Android e iOS.
-          - Desenvolveu front-end web em React.Js para uma plataforma interna B2B de backoffice.
-          - Desenvolveu front-end web Next.Js para uma plataforma B2C de investimentos financeiros em bitcoin.
-          - Responsável pela manutenção de bases de código front-end em Vue e Angular.
+          - Desenvolveu e deu manunteção a pipelines multiplataforma mobile para build e distribuição de código para Android, iOS e web com Azure DevOps.
+          - Desenvolveu frontend de apps mobile em React Native e Flutter para Android e iOS.
+          - Desenvolveu frontend web em React.Js para uma plataforma interna B2B de backoffice.
+          - Desenvolveu frontend web Next.Js para uma plataforma B2C de investimentos financeiros em bitcoin.
+          - Responsável pela manutenção de bases de código frontend em Vue e Angular.
+          - Responsável pela manutenção de bases de código backend em .NET MVC.
+          - Experiência em metodologias ágeis (Agile).
       - company: Observatório Nacional do Rio
         position: Estágio
         date:
@@ -36,22 +38,22 @@ cv:
         location: Rio de Janeiro, RJ
         summary: Responsável pelo desenvolvimento de projetos em realidade virtual e realidade aumentada com Unity Engine voltados para educação e divulgação científica.
         highlights:
-          - Coautor em um projeto de Realidade Aumentada cujo intuito foi a divulgação científica em diferentes estados em feiras de ciência pelo Brasil.
+          - Coautor em um projeto de Realidade Aumentada voltado para divulgação científica em diferentes estados em feiras de ciência pelo Brasil.
 
     #projetos:
-     # - name: "[Ziggurat](https://github.com/Rhombk/Ziggurat.git)"
-     #   date:
-     #   start_date: 2025-12
-     #   end_date: present
-     #   location:
-     #   summary: Minha própria distribuição Arch Linux, pré-configurada e pronta para uso "out of the box" para desenvolvimento de software.
-     #   highlights:
+    # - name: "[Ziggurat](https://github.com/Rhombk/Ziggurat.git)"
+    #   date:
+    #   start_date: 2025-12
+    #   end_date: present
+    #   location:
+    #   summary: Minha própria distribuição Arch Linux, pré-configurada e pronta para uso "out of the box" para desenvolvimento de software.
+    #   highlights:
 
     skills:
-      - label: Languages
+      - label: Linguagens de Programação
         details: C#, Javascript, Typescript, Python, C, C++, Golang, Rust, Zig, Yaml
       - label: Infrastrutura
-        details: Docker, Azure, Google Cloud Provider, Github Actions
+        details: Docker, Azure DevOps, Github Actions
       - label: Frameworks Front-end
         details: React.Js, React Native, Next.Js, Vue, Angular
       - label: Frameworks back-end
@@ -284,5 +286,5 @@ settings:
       Linux,
       Docker,
       Azure pipelines,
-      Azure
+      Azure,
     ]
