@@ -33,24 +33,28 @@ Set 2019 – Out 2020
 
 Responsável pelo desenvolvimento de projetos em realidade virtual e realidade aumentada com Unity Engine voltados para educação e divulgação científica.
 
-- Coautor em um projeto de Realidade Aumentada voltado para divulgação científica em diferentes estados em feiras de ciência pelo Brasil.
+- Coautor em um projeto de design gráfico e realidade aumentada voltado para divulgação científica em diferentes estados em feiras de ciência pelo Brasil.
 
 
 
 # Skills
-**Linguagens de Programação:** **C#**, **Javascript**, **Typescript**, **Python**, C, C++, Golang, Rust, Zig, Yaml
+**Linguagens de Programação:** C#, **Javascript**, **Typescript**, **Python**, C, C++, Golang, Rust, Zig, Yaml
 
 **Infrastrutura:** CI/CD, **Docker**, **Azure** DevOps, Github Actions
 
 **Frameworks **front-end**:** **React.Js**, **React Native**, **Next.Js**, **Vue**, **Angular**
 
-**Frameworks back-end:** **.NET Framework**
+**Frameworks back-end:** .NET Framework
 
 **Bancos de Dados:** **Postgres**, **SQL Server**
 
 **Linguas Estrangeiras:** Inglês fluente.
 
+# Idiomas
+**Inglês:** C2
+
 # Educação
-## **Centro Universitário Unicarioca - Unidade Rio Comprido**, Tecnólogo in Análise e Desenvolvimento de Sistemas -- Rio de Janeiro, RJJan 2018 – Jun 2022
+## **Centro Universitário Unicarioca - Unidade Rio Comprido**, Tecnólogo em Análise e Desenvolvimento de Sistemas -- Rio de Janeiro, RJ
+Jan 2018 – Jun 2022
 
 

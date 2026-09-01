@@ -38,7 +38,7 @@ cv:
         location: Rio de Janeiro, RJ
         summary: Responsável pelo desenvolvimento de projetos em realidade virtual e realidade aumentada com Unity Engine voltados para educação e divulgação científica.
         highlights:
-          - Coautor em um projeto de Realidade Aumentada voltado para divulgação científica em diferentes estados em feiras de ciência pelo Brasil.
+          - Coautor em um projeto de design gráfico e realidade aumentada voltado para divulgação científica em diferentes estados em feiras de ciência pelo Brasil.
 
     #projetos:
     # - name: "[Ziggurat](https://github.com/Rhombk/Ziggurat.git)"
@@ -62,6 +62,9 @@ cv:
         details: Postgres, SQL Server
       - label: Linguas Estrangeiras
         details: Inglês fluente.
+    Idiomas:
+      - label: Inglês
+        details: C2
 
     educação:
       - institution: Centro Universitário Unicarioca - Unidade Rio Comprido
@@ -248,7 +251,7 @@ locale:
   #   - November
   #   - December
 settings:
-  current_date: "2025-12-01"
+  current_date: "2026-09-01"
   render_command:
     design:
     locale:

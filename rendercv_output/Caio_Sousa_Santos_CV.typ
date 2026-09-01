@@ -1,12 +1,14 @@
 // Import the rendercv function and all the refactored components
-#import "@preview/rendercv:0.1.0": *
+#import "@preview/rendercv:0.3.0": *
 
 // Apply the rendercv template with custom configuration
 #show: rendercv.with(
   name: "Caio Sousa Santos",
+  title: "Caio Sousa Santos - CV",
   footer: context { [#emph[Caio Sousa Santos -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Última atualização Dez 2025] ],
+  top-note: [ #emph[Última atualização Set 2026] ],
   locale-catalog-language: "pt",
+  text-direction: ltr,
   page-size: "us-letter",
   page-top-margin: 0.7in,
   page-bottom-margin: 0.7in,
@@ -67,6 +69,7 @@
   entries-space-between-columns: 0.1cm,
   entries-allow-page-break: false,
   entries-short-second-row: false,
+  entries-degree-width: 1cm,
   entries-summary-space-left: 0cm,
   entries-summary-space-above: 0.12cm,
   entries-highlights-bullet:  "•" ,
@@ -76,8 +79,8 @@
   entries-highlights-space-between-items: 0.12cm,
   entries-highlights-space-between-bullet-and-text: 0.5em,
   date: datetime(
-    year: 2025,
-    month: 12,
+    year: 2026,
+    month: 9,
     day: 1,
   ),
 )
@@ -134,30 +137,34 @@
   main-column-second-row: [
     #summary[Responsável pelo desenvolvimento de projetos em realidade virtual e realidade aumentada com Unity Engine voltados para educação e divulgação científica.]
 
-    - Coautor em um projeto de Realidade Aumentada voltado para divulgação científica em diferentes estados em feiras de ciência pelo Brasil.
+    - Coautor em um projeto de design gráfico e realidade aumentada voltado para divulgação científica em diferentes estados em feiras de ciência pelo Brasil.
 
   ],
 )
 
 == Skills
 
-#strong[Linguagens de Programação:] #strong[C\#], #strong[Javascript], #strong[Typescript], #strong[Python], C, C++, Golang, Rust, Zig, Yaml
+#strong[Linguagens de Programação:] C\#, #strong[Javascript], #strong[Typescript], #strong[Python], C, C++, Golang, Rust, Zig, Yaml
 
 #strong[Infrastrutura:] CI\/CD, #strong[Docker], #strong[Azure] DevOps, Github Actions
 
 #strong[Frameworks ]front-end#strong[:] #strong[React.Js], #strong[React Native], #strong[Next.Js], #strong[Vue], #strong[Angular]
 
-#strong[Frameworks back-end:] #strong[.NET Framework]
+#strong[Frameworks back-end:] .NET Framework
 
 #strong[Bancos de Dados:] #strong[Postgres], #strong[SQL Server]
 
 #strong[Linguas Estrangeiras:] Inglês fluente.
 
+== Idiomas
+
+#strong[Inglês:] C2
+
 == Educação
 
 #education-entry(
   [
-    #strong[Centro Universitário Unicarioca - Unidade Rio Comprido], Tecnólogo in Análise e Desenvolvimento de Sistemas -- Rio de Janeiro, RJ
+    #strong[Centro Universitário Unicarioca - Unidade Rio Comprido], Tecnólogo em Análise e Desenvolvimento de Sistemas -- Rio de Janeiro, RJ
 
   ],
   [
