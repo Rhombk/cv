@@ -14,6 +14,8 @@ cv:
       username: caiosousasantos
   custom_connections:
   sections:
+    resumo:
+      - Desenvolvedor de Sistemas - 1 ano de experiência
     experiência:
       - company: Transfero Group
         position: Software Engineer - Full-Stack Developer
@@ -36,9 +38,11 @@ cv:
         start_date: 2019-09
         end_date: 2020-10
         location: Rio de Janeiro, RJ
-        summary: Responsável pelo desenvolvimento de projetos em realidade virtual e realidade aumentada com Unity Engine voltados para educação e divulgação científica.
+        summary: Responsável pelo desenvolvimento de projetos em realidade virtual e realidade aumentada com a Unity Engine e C# voltados para educação e divulgação científica.
         highlights:
           - Coautor em um projeto de design gráfico e realidade aumentada voltado para divulgação científica em diferentes estados em feiras de ciência pelo Brasil.
+          - Responsável pela interface de reconhecimento gráfico que habilitava a projeção interativa de objetos tridimensionais com Realidade Aumentada e Realidade Virtual
+          - Responsável pela modelagem, texturização e programação do comportamento de entidades gráficas tridimensionais simples.
 
     #projetos:
     # - name: "[Ziggurat](https://github.com/Rhombk/Ziggurat.git)"
@@ -51,20 +55,19 @@ cv:
 
     skills:
       - label: Linguagens de Programação
-        details: C#, Javascript, Typescript, Python, C, C++, Golang, Rust, Zig, Yaml
+        details: C#, Javascript, Typescript, Python, C, C++, Golang, Zig, Yaml
       - label: Infrastrutura
         details: CI/CD, Docker, Azure DevOps, Github Actions
       - label: Frameworks front-end
         details: React.Js, React Native, Next.Js, Vue, Angular
       - label: Frameworks back-end
-        details: .NET Framework
+        details: .NET
       - label: Bancos de Dados
-        details: Postgres, SQL Server
-      - label: Linguas Estrangeiras
-        details: Inglês fluente.
+        details: PostgreSQL, MongoDB, Microsoft SQL Server
+
     Idiomas:
       - label: Inglês
-        details: C2
+        details: C1
 
     educação:
       - institution: Centro Universitário Unicarioca - Unidade Rio Comprido
@@ -78,7 +81,7 @@ cv:
         highlights:
 
 design:
-  theme: engineeringclassic
+  theme: engineeringresumes
 
   #    any_section_title:
   #      - You can use any section title you want.
@@ -290,4 +293,5 @@ settings:
       Docker,
       Azure pipelines,
       Azure,
+      Desenvolvedor de Sistemas
     ]
