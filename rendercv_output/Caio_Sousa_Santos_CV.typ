@@ -91,6 +91,7 @@
 #connections(
   [Rio de Janeiro, RJ],
   [#link("mailto:caio.santos.jobs@gmail.com", icon: false, if-underline: false, if-color: false)[caio.santos.jobs\@gmail.com]],
+  [#link("tel:+55-21-99585-0599", icon: false, if-underline: false, if-color: false)[(21) 99585-0599]],
   [#link("https://github.com/Rhombk", icon: false, if-underline: false, if-color: false)[github.com\/Rhombk]],
   [#link("https://linkedin.com/in/caiosousasantos", icon: false, if-underline: false, if-color: false)[linkedin.com\/in\/caiosousasantos]],
 )

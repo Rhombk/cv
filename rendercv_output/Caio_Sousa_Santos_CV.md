@@ -1,5 +1,6 @@
 # Caio Sousa Santos's CV
 
+- Phone: +55 21 99585 0599
 - Email: [caio.santos.jobs@gmail.com](mailto:caio.santos.jobs@gmail.com)
 - Location: Rio de Janeiro, RJ
 - GitHub: [Rhombk](https://github.com/Rhombk)
